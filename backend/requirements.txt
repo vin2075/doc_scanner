@@ -1,0 +1,14 @@
+pdfminer.six
+scikit-learn
+numpy
+python-multipart
+openai
+pdf2image
+pytesseract
+flask
+flask-cors
+PyPDF2
+nltk
+scikit-learn
+matplotlib
+reportlab
